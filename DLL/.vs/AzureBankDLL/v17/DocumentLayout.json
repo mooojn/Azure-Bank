@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# files\\OOP-Project\\AzureBankDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\dl\\db\\accountdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:dl\\db\\accountdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\util\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:util\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|d:\\c# files\\oop-project\\azurebankdll\\bl\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:bl\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\bl\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:bl\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\bl\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:bl\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\bl\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:bl\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\bl\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:bl\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\dl\\db\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:dl\\db\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\dl\\db\\transactiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:dl\\db\\transactiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\dl\\db\\assetdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:dl\\db\\assetdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\dlinterfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:dlinterfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\dlinterfaces\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:dlinterfaces\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\dlinterfaces\\iasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:dlinterfaces\\iasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\dlinterfaces\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:dlinterfaces\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\dl\\fh\\userfh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:dl\\fh\\userfh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\dl\\fh\\transactionfh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:dl\\fh\\transactionfh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\dl\\fh\\assetfh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:dl\\fh\\assetfh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\dl\\fh\\accountfh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:dl\\fh\\accountfh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|D:\\c# files\\OOP-Project\\AzureBankDLL\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743093D-EDA4-448B-B6A1-248A7544EC26}|AzureBankDLL.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\BL\\Account.cs",
+              "RelativeDocumentMoniker": "BL\\Account.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\BL\\Account.cs",
+              "RelativeToolTip": "BL\\Account.cs",
+              "ViewState": "AQIAADwAAACSmJmZmZkwwC4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:51:26.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\BL\\Asset.cs",
+              "RelativeDocumentMoniker": "BL\\Asset.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\BL\\Asset.cs",
+              "RelativeToolTip": "BL\\Asset.cs",
+              "ViewState": "AQIAABQAAAAAy8zMzMwEwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:12:50.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\BL\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BL\\CurrentAccount.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\BL\\CurrentAccount.cs",
+              "RelativeToolTip": "BL\\CurrentAccount.cs",
+              "ViewState": "AQIAAAgAAACAMjMzMzMrwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T10:03:40.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "History.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\BL\\History.cs",
+              "RelativeDocumentMoniker": "BL\\History.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\BL\\History.cs",
+              "RelativeToolTip": "BL\\History.cs",
+              "ViewState": "AQIAABkAAAAQzMzMzMw9wAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:12:49.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountDB.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\DB\\AccountDB.cs",
+              "RelativeDocumentMoniker": "DL\\DB\\AccountDB.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\DB\\AccountDB.cs",
+              "RelativeToolTip": "DL\\DB\\AccountDB.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:05:56.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DB.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\Util\\DB.cs",
+              "RelativeDocumentMoniker": "Util\\DB.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\Util\\DB.cs",
+              "RelativeToolTip": "Util\\DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:12:50.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDB.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\DB\\UserDB.cs",
+              "RelativeDocumentMoniker": "DL\\DB\\UserDB.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\DB\\UserDB.cs",
+              "RelativeToolTip": "DL\\DB\\UserDB.cs",
+              "ViewState": "AQIAAAQAAAAANLkESr4twEsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:12:50.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionDB.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\DB\\TransactionDB.cs",
+              "RelativeDocumentMoniker": "DL\\DB\\TransactionDB.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\DB\\TransactionDB.cs",
+              "RelativeToolTip": "DL\\DB\\TransactionDB.cs",
+              "ViewState": "AQIAACMAAACgzMzMzMwwwA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:12:49.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\BL\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "BL\\SavingAccount.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\BL\\SavingAccount.cs",
+              "RelativeToolTip": "BL\\SavingAccount.cs",
+              "ViewState": "AQIAAAgAAABimJmZmfkzwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:53:40.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\BL\\User.cs",
+              "RelativeDocumentMoniker": "BL\\User.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\BL\\User.cs",
+              "RelativeToolTip": "BL\\User.cs",
+              "ViewState": "AQIAAAsAAAAANDMzMzMbwBEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:12:49.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssetDB.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\DB\\AssetDB.cs",
+              "RelativeDocumentMoniker": "DL\\DB\\AssetDB.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\DB\\AssetDB.cs",
+              "RelativeToolTip": "DL\\DB\\AssetDB.cs",
+              "ViewState": "AQIAACIAAADgyszMzEwpwDYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:12:49.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DLInterfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "DLInterfaces\\IUser.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DLInterfaces\\IUser.cs",
+              "RelativeToolTip": "DLInterfaces\\IUser.cs",
+              "ViewState": "AQIAAAkAAADAzMzMzMw5wBIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:12:49.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITransaction.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DLInterfaces\\ITransaction.cs",
+              "RelativeDocumentMoniker": "DLInterfaces\\ITransaction.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DLInterfaces\\ITransaction.cs",
+              "RelativeToolTip": "DLInterfaces\\ITransaction.cs",
+              "ViewState": "AQIAAAEAAACAMjMzMzMbwAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:12:50.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAsset.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DLInterfaces\\IAsset.cs",
+              "RelativeDocumentMoniker": "DLInterfaces\\IAsset.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DLInterfaces\\IAsset.cs",
+              "RelativeToolTip": "DLInterfaces\\IAsset.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:12:49.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DLInterfaces\\IAccount.cs",
+              "RelativeDocumentMoniker": "DLInterfaces\\IAccount.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DLInterfaces\\IAccount.cs",
+              "RelativeToolTip": "DLInterfaces\\IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:05:42.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserFH.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\FH\\UserFH.cs",
+              "RelativeDocumentMoniker": "DL\\FH\\UserFH.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\FH\\UserFH.cs",
+              "RelativeToolTip": "DL\\FH\\UserFH.cs",
+              "ViewState": "AQIAAAYAAACQtMzMzIwjwEIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:12:50.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransactionFH.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\FH\\TransactionFH.cs",
+              "RelativeDocumentMoniker": "DL\\FH\\TransactionFH.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\FH\\TransactionFH.cs",
+              "RelativeToolTip": "DL\\FH\\TransactionFH.cs",
+              "ViewState": "AQIAAAIAAAAAPDMzMzMLwDsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:12:49.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssetFH.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\FH\\AssetFH.cs",
+              "RelativeDocumentMoniker": "DL\\FH\\AssetFH.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\FH\\AssetFH.cs",
+              "RelativeToolTip": "DL\\FH\\AssetFH.cs",
+              "ViewState": "AQIAAAgAAABgLzMzMzMbwCMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:12:49.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountFH.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\FH\\AccountFH.cs",
+              "RelativeDocumentMoniker": "DL\\FH\\AccountFH.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\DL\\FH\\AccountFH.cs",
+              "RelativeToolTip": "DL\\FH\\AccountFH.cs",
+              "ViewState": "AQIAAF8AAAAAzczMzMwwwBEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:00:33.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-18T11:35:12.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\c# files\\OOP-Project\\AzureBankDLL\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\c# files\\OOP-Project\\AzureBankDLL\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:35:32.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
